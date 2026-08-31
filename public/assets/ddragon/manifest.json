@@ -1,9 +1,9 @@
 {
-  "version": "16.13.1",
-  "generatedAt": "2026-06-27T08:14:17.820Z",
+  "version": "16.17.1",
+  "generatedAt": "2026-08-31T12:36:01.107Z",
   "counts": {
     "champions": 173,
-    "items": 706,
+    "items": 868,
     "runes": 17,
     "rankEmblems": 10
   },
