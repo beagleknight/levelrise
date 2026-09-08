@@ -26,13 +26,13 @@
     "ddragon:optimize": "tsx scripts/optimize-ddragon.ts"
   },
   "dependencies": {
-    "@ai-sdk/google": "^3.0.67",
+    "@ai-sdk/google": "^3.0.121",
     "@base-ui/react": "^1.4.1",
     "@libsql/client": "^0.17.3",
     "@swc/helpers": "^0.5.21",
     "@types/jsonwebtoken": "^9.0.10",
     "@vercel/speed-insights": "^2.0.0",
-    "ai": "^6.0.173",
+    "ai": "^6.0.277",
     "canvas-confetti": "^1.9.4",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
